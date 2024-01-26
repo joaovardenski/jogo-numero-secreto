@@ -6,7 +6,7 @@
 Esse é um projeto Web de um jogo de adivinhar um número secreto.
 
 ## 🚀Tecnologias
-Esse projeto foi desenvolvido durante a NLW da Rocketseat com as seguintes tecnologias:
+Esse projeto foi desenvolvido durante o Curso de JavaScript da Alura com as seguintes tecnologias:
 -HTML
 -CSS
 -JavaScript
